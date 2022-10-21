@@ -1,0 +1,32 @@
+* {
+    background-color: #499FA4;
+    color: #ffffff;
+    margin-top: 20px;
+}
+div {
+    height: fit-content;
+    width: 550px;
+    justify-content: center;
+    text-align: center;
+    margin-left: 200px;
+    font-size: large;
+
+}
+.bio {
+    text-align: start;
+}
+
+.foto {
+    font-style: italic;
+    color: #D9D9D9;
+    margin-top: 0px;
+}
+
+.veamos {
+    margin-top: -15px;
+    padding-left: 20px;
+    text-align: start;
+}
+img {
+    margin-top: -10px;
+}
